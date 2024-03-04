@@ -10,7 +10,7 @@ Tenho conhecimento com HTML, CSS, Javascript, também já desenvolvi usando reac
 ##### Linguagens:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</br>
 ##### Projetos: </br>
-[![Readme Card](https://github.com/raulpereira1/ApiCrudCSharp)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulpereira1&repo=ApiCrudCSharp)](https://github.com/raulpereira1/ApiCrudCSharp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulpereira1&repo=erudio-microservices-dotnet6)](https://github.com/raulpereira1/erudio-microservices-dotnet6)
 
