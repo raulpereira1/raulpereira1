@@ -1,11 +1,11 @@
 ###  Olá Pessoal! 👋
 
 #### Sobre o Raul:
-EM CONSTANTE APRENDIZADO!
-PHP YII2 FRAMEWORK
-SQL
-C#
-REACT
+EM CONSTANTE APRENDIZADO!<br>
+PHP YII2 FRAMEWORK<br>
+SQL<br>
+C#<br>
+REACT<br>
 
 ##### Detalhes:
 
