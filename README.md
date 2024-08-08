@@ -1,8 +1,11 @@
 ###  Olá Pessoal! 👋
 
 #### Sobre o Raul:
-Estudo desenvolvimento web há 2 anos, nos quais pude conhecer diversas tecnologias e trilhar um foco de estudos para conseguir o primeiro emprego na área.
-Tenho conhecimento com HTML, CSS, Javascript, também já desenvolvi usando react,jquery e python.
+EM CONSTANTE APRENDIZADO!
+PHP YII2 FRAMEWORK
+SQL
+C#
+REACT
 
 ##### Detalhes:
 
